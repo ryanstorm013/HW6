@@ -1,0 +1,21 @@
+.size {
+    
+    height: 77.9rem;
+}
+
+ul {
+    padding: 10px;
+}
+
+.search-button {
+    margin-left: -0.5rem !important;
+}
+
+.uv {
+    background-color: #dc3545;
+    height: 1.5rem;
+    width: 3rem;
+    padding-left: 0.5rem;
+    border-radius: 2px;
+    color: #ffffff;
+  }
