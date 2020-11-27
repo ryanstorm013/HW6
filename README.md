@@ -25,7 +25,7 @@ and states. Within the site, the **Weather Dashboard** will includes:
   
   ![StartUp Page](img/startup.png)
 
-You will be greeted to this page, this will not display the weather until the user searches up for a city. If this is the first time the user has used the site, no history will be displayed but instead will say "No search history available" in blue. 
+The user will be greeted to this page, this will not display the weather until the user searches up for a city. If this is the first time the user has used the site, no history will be displayed but instead will say "No search history available" in blue. 
 
 **NOTE:** The heading for the website is clickable however, it leads to nowhere at the current state and will be updated eventually. 
 
@@ -33,5 +33,10 @@ You will be greeted to this page, this will not display the weather until the us
 
   ![Weather Page](img/WeatherSearch.png)
 
-  
+If the user searches or clicks the past history for the correct city/state. It will display the given city current day and the 5-day Forcast. This will help the user to know the weather and tempurature of the given day and the weather of the 5 days after the current day.
+
+# Error Search
+ 
+ ![Weather Page](img/WeatherSearch.png)
+
   
