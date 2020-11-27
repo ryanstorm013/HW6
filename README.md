@@ -37,6 +37,19 @@ If the user searches or clicks the past history for the correct city/state. It w
 
 # Error Search
  
- ![Weather Page](img/WeatherSearch.png)
+ ![Error Page](img/ErrorPage.png)
+ 
+ Failing to use the correct city/state will result in an alert, alerting the user to use the correct city/state. 
+ 
+# Storing Data
+
+![Storing](img/Redone.png)
+
+As the user searches for various of cities, the site will store the data into the history list, but will only display if the user refreshes the page.
+
+NOTE: If the user searches for a city/state when the history list is available, when refreshed it will replace a new list instead of the list before.
+ 
+ 
+ 
 
   
